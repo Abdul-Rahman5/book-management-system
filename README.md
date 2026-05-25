@@ -3,7 +3,7 @@
 A modern, responsive, and minimalist Book Management System built using React 19 and Vite. This application performs full CRUD operations integrated with a remote API, featuring dynamic real-time form validation and live client-side searching/filtering.
 
 ## 🚀 Live Demo
-- **Live URL:** []
+- **Live URL:** [https://book-management-system-two-gamma.vercel.app/]
 
 ## ✨ Key Features
 - **Full CRUD Management:** Seamlessly View, Add, Edit, and Delete books.
@@ -27,4 +27,4 @@ Follow these simple steps to run the project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone []
+ git clone [https://github.com/Abdul-Rahman5/book-management-system.git]

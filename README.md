@@ -4,7 +4,12 @@ A modern, responsive, and minimalist Book Management System built using React 19
 
 ## 🚀 Live Demo
 - **Live URL:** [https://book-management-system-two-gamma.vercel.app/]
-
+## Setup Instructions:
+1. Clone the repository: git clone https://github.com/Abdul-Rahman5/book-management-system.git
+2. Install dependencies: npm install
+3. Run the development server: npm run dev
+4. Build for production: npm run build
+   
 ## ✨ Key Features
 - **Full CRUD Management:** Seamlessly View, Add, Edit, and Delete books.
 - **Dynamic Dashboard (No Home Page):** Opens directly into the **Books List** catalog for a swift, data-driven user experience.
